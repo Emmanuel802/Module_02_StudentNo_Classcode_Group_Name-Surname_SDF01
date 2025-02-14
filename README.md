@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: The Beginning Of My Dev Journey 🚀
 
 # 👋 Hi, I'm [EMMANUEL ANOTIDA ]
 
